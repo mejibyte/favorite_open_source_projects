@@ -6,3 +6,4 @@ A list of my favorite open-source projects so I don't forget they exist.
 * [gRPC](https://grpc.io/): Google's RPC framework. Much better than Facebook's [Thrift](https://github.com/facebook/fbthrift)  (which sucks).
 * [Bazel](https://bazel.build/): Google's build system. Infinitely superior to `make` and similar crap. Also better than Facebook's [Buck](https://buckbuild.com/), which is a blatant copy of Bazel, but worse.
 * [Detectron](https://github.com/facebookresearch/Detectron): Deep learning library from Facebook. Haven't played around much with it yet but it's in my To-Do list.
+* [RocksDB](https://rocksdb.org/): Fucking fast persistent key-value storage by Facebook.
